@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50ad0f50-0222-4f2c-b81f-eef093ea793e" name="Default Changelist" comment="" />
+    <list default="true" id="50ad0f50-0222-4f2c-b81f-eef093ea793e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/ReorderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/SynchronizedExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,20 +23,61 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter1/ConcurrencyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="49" lean-forward="true" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+            <state relative-caret-position="-343">
+              <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter1/DeadLockDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-168">
+              <caret line="17" column="83" selection-start-line="17" selection-start-column="83" selection-end-line="17" selection-end-column="83" />
+              <folding>
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter2/Counter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1558#1559#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter1/DeadLockDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter3/ReorderExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            <state relative-caret-position="125">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
               <folding>
-                <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#599#600#0" expanded="true" />
+                <element signature="e#697#698#0" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter3/SynchronizedExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+              <folding>
+                <element signature="e#583#584#0" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -45,11 +92,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/chapter1/ConcurrencyTest.java" />
         <option value="$PROJECT_DIR$/src/chapter1/DeadLockDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/Counter.java" />
+        <option value="$PROJECT_DIR$/src/chapter3/SynchronizedExample.java" />
+        <option value="$PROJECT_DIR$/src/chapter3/ReorderExample.java" />
       </list>
     </option>
   </component>
@@ -65,6 +118,9 @@
     <option name="y" value="-10" />
     <option name="width" value="1940" />
     <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -87,7 +143,7 @@
               <item name="the-art-of-concurrent-programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="the-art-of-concurrent-programming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -100,11 +156,16 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558231019712" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558234787272" />
     <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.8.0_191/bin/jvisualvm.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter3" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -118,13 +179,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DeadLockDemo">
+  <component name="RunManager" selected="Application.ReorderExample">
     <configuration name="ConcurrencyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.ConcurrencyTest" />
       <module name="the-art-of-concurrent-programming" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Counter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.Counter" />
+      <module name="the-art-of-concurrent-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,8 +219,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReorderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.ReorderExample" />
+      <module name="the-art-of-concurrent-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SynchronizedExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.SynchronizedExample" />
+      <module name="the-art-of-concurrent-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReorderExample" />
+        <item itemvalue="Application.SynchronizedExample" />
+        <item itemvalue="Application.Counter" />
         <item itemvalue="Application.DeadLockDemo" />
         <item itemvalue="Application.ConcurrencyTest" />
       </list>
@@ -162,12 +265,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558229506547</updated>
-      <workItem from="1558229511320" duration="1428000" />
+      <workItem from="1558229511320" duration="5654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1428000" />
+    <option name="totallyTimeSpent" value="5654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -178,7 +281,7 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -191,7 +294,7 @@
       <window_info anchor="bottom" id="Debug with VisualVM" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329429" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32991204" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -212,20 +315,55 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/chapter2/Counter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1558#1559#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter1/ConcurrencyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="49" lean-forward="true" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        <state relative-caret-position="-343">
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter1/DeadLockDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        <state relative-caret-position="-168">
+          <caret line="17" column="83" selection-start-line="17" selection-start-column="83" selection-end-line="17" selection-end-column="83" />
           <folding>
             <element signature="e#166#167#0" expanded="true" />
             <element signature="e#199#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3/SynchronizedExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3/ReorderExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
           </folding>
         </state>
       </provider>
