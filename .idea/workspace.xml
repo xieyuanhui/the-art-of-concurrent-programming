@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50ad0f50-0222-4f2c-b81f-eef093ea793e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/ConnectionDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/ConnectionPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/ConnectionPoolTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/Daemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/DefaultThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/Depracted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/Interrupted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/Join.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/MultiThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/Mutex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/Piped.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/Priority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/Profiler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/Shutdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/SimpleHttpServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/SleepUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/Synchronized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/ThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/ThreadState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/TwinsLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/TwinsLockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/WaitNotify.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/TwinsLockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/TwinsLockTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/chapter4/TwinsLockTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+            <state relative-caret-position="100">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -159,7 +137,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558874770736" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558875021422" />
     <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.8.0_191/bin/jvisualvm.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -277,17 +255,35 @@
       <workItem from="1558598151014" duration="63000" />
       <workItem from="1558789504366" duration="3713000" />
       <workItem from="1558830089699" duration="18906000" />
-      <workItem from="1558874417733" duration="352000" />
+      <workItem from="1558874417733" duration="1211000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="TwinsLockTest_test - 2019.05.26 at 20h 46m 29s.xml">
+      <configuration name="TwinsLockTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwinsLockTest_test - 2019.05.26 at 20h 48m 32s.xml">
+      <configuration name="TwinsLockTest.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35536000" />
+    <option name="totallyTimeSpent" value="36395000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988864" visible="true" weight="0.27010724" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988864" visible="true" weight="0.27010724" />
       <window_info id="Structure" order="1" sideWeight="0.5011136" side_tool="true" weight="0.26675603" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -300,15 +296,15 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.20381232" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32991204" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.35923752" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32991204" />
       <window_info anchor="bottom" id="Run with VisualVM" order="11" />
-      <window_info anchor="bottom" id="Problems" order="12" />
+      <window_info anchor="bottom" id="Problems" order="12" weight="0.32991204" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32991204" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -678,8 +674,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter4/TwinsLockTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        <state relative-caret-position="100">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

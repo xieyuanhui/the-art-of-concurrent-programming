@@ -4,6 +4,9 @@ import org.junit.Test;
 
 import java.util.concurrent.locks.Lock;
 
+/**
+ * 共享式同步状态获取
+ */
 public class TwinsLockTest {
 
     @Test
