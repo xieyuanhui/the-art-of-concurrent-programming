@@ -1,4 +1,4 @@
-package chapter4;
+package chapter5;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.AbstractQueuedSynchronizer;
